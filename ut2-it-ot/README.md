@@ -1,5 +1,4 @@
 Monitorización IoT con BBC micro:bit (Nodo Edge)
-Este directorio contiene los recursos correspondientes a la práctica UT2 - Tecnologías Habilitadoras Digitales (THD) del proyecto `digitalizacion-daw2-monitor`. Incluye el firmware compilado para la placa BBC micro:bit (`main.hex`), los modelos 3D para su protección física (`carcasa_base.stl` y `carcasa_tapa.stl`) y la documentación técnica de funcionamiento.
 ---
 1. Explicación del Algoritmo Edge
 En esta arquitectura IoT, la placa BBC micro:bit opera como un nodo de Edge Computing (computación en el borde). En lugar de saturar la red enviando lecturas crudas e ininterrumpidas hacia la nube o el servidor central, el microcontrolador ejecuta localmente las siguientes fases de procesamiento:
